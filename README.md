@@ -23,7 +23,7 @@ The main goal of this project is to evaluate the impact of feature selection tec
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/your-username/feature-selection-analysis.git`
+1. Clone this repository: `git clone https://github.com/JDOchoa09/feature-selection-analysis.git`
 2. Navigate to the repository directory: `cd feature-selection-analysis`
 3. Explore the Jupyter notebooks in the `notebooks/` directory for a detailed walkthrough of the analysis.
 
